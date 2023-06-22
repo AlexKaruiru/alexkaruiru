@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex Ndegwa Karuiru</h1>
+<h1 align="center">Hi 👋, I'm Alex </h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://www.computersciencedegreehub.com/wp-content/uploads/2023/02/shutterstock_535124956-scaled.jpg">
 
@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Haba](https://habaapp.com)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN, Java**
 
