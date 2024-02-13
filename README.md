@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Haba](https://habaapp.com)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GraphQL**
 
-- 💬 Ask me about **MERN, Java**
+- 💬 Ask me about **MERN, Java, JavaScript**
 
 - 📫 How to reach me **alexndegwa49@gmail.com**
 
