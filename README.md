@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexkaruiru&label=Profile%20views&color=0e75b6&style=flat" alt="alexkaruiru" /> </p>
 
-- 🔭 I’m currently working on [Haba](https://habaapp.com)
+- 🔭 I’m currently working on [Zuridesk](https://www.zuridesk.com)
 
 - 🌱 I’m currently learning **GraphQL**
 
